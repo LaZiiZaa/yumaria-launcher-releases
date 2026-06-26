@@ -1,0 +1,151 @@
+{
+  "version": "2026-06-26T13:54:55.514Z",
+  "minecraft": {
+    "version": "1.21.11",
+    "loader": "fabric",
+    "loaderVersion": "0.18.4"
+  },
+  "managedFolders": [
+    "mods"
+  ],
+  "files": [
+    {
+      "path": "mods/architectury-19.0.1-fabric.jar",
+      "url": "https://edge.forgecdn.net/files/7339/256/architectury-19.0.1-fabric.jar",
+      "sha1": "2d40563f7e36f7a03f094031aeaacb175117928e",
+      "size": 568474
+    },
+    {
+      "path": "mods/balm-fabric-1.21.11-21.11.9.1.jar",
+      "url": "https://edge.forgecdn.net/files/8252/754/balm-fabric-1.21.11-21.11.9.1.jar",
+      "sha1": "5bb8ca8fb46953da5777c1b3c12af5b397b46b48",
+      "size": 873058
+    },
+    {
+      "path": "mods/Chunky-Fabric-1.4.55.jar",
+      "url": "https://edge.forgecdn.net/files/7364/921/Chunky-Fabric-1.4.55.jar",
+      "sha1": "19c34a23a5c1b2f6c73117b8eb4524b521e1926b",
+      "size": 355288
+    },
+    {
+      "path": "mods/cloth-config-21.11.153-fabric.jar",
+      "url": "https://edge.forgecdn.net/files/7361/438/cloth-config-21.11.153-fabric.jar",
+      "sha1": "4c224606a963bce223db5b27edb4959ecf40d4ee",
+      "size": 1148427
+    },
+    {
+      "path": "mods/DistantHorizons-3.1.2-b-1.21.11-fabric-neoforge.jar",
+      "url": "https://edge.forgecdn.net/files/8287/424/DistantHorizons-3.1.2-b-1.21.11-fabric-neoforge.jar",
+      "sha1": "9acb1aecc69f3a4de088d1c77bdf285cc85f62c9",
+      "size": 30129522
+    },
+    {
+      "path": "mods/fabric-api-0.141.4+1.21.11.jar",
+      "url": "https://edge.forgecdn.net/files/8073/350/fabric-api-0.141.4%2b1.21.11.jar",
+      "sha1": "13d3885dfec40313e2b3bf9ee639353272b9b48a",
+      "size": 2413332
+    },
+    {
+      "path": "mods/fabric-language-kotlin-1.13.12+kotlin.2.4.0.jar",
+      "url": "https://edge.forgecdn.net/files/8190/687/fabric-language-kotlin-1.13.12%2bkotlin.2.4.0.jar",
+      "sha1": "2bc17bb4275cc70a12e4ac35d139a71a30845720",
+      "size": 8076848
+    },
+    {
+      "path": "mods/inventoryhud.fabric.1.21.11-3.4.29.jar",
+      "url": "https://edge.forgecdn.net/files/7325/100/inventoryhud.fabric.1.21.11-3.4.29.jar",
+      "sha1": "36ff4f8a05c0f7d66b7c4bdc4778da49ff8205c5",
+      "size": 226047
+    },
+    {
+      "path": "mods/InventoryProfilesNext-fabric-1.21.11-2.2.6.jar",
+      "url": "https://edge.forgecdn.net/files/7818/184/InventoryProfilesNext-fabric-1.21.11-2.2.6.jar",
+      "sha1": "0abb512cdd1cd8ea473c13a809b44a993ab05f51",
+      "size": 1331339
+    },
+    {
+      "path": "mods/iris-fabric-1.10.7+mc1.21.11.jar",
+      "url": "https://edge.forgecdn.net/files/7805/348/iris-fabric-1.10.7%2bmc1.21.11.jar",
+      "sha1": "aae8567bd9ea397d50aff1d0b680a82ffe67040c",
+      "size": 2807547
+    },
+    {
+      "path": "mods/libIPN-fabric-1.21.11-6.6.3.jar",
+      "url": "https://edge.forgecdn.net/files/7810/549/libIPN-fabric-1.21.11-6.6.3.jar",
+      "sha1": "e4fd1f06b1e717be8545fc9769422fb964c33df4",
+      "size": 635283
+    },
+    {
+      "path": "mods/litematica-fabric-1.21.11-0.26.0.jar",
+      "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/ZF7nARQU/litematica-fabric-1.21.11-0.26.3.jar",
+      "sha1": "321ab263a3638d32f07c07a036f80c5cb2f5d130",
+      "size": 1816760
+    },
+    {
+      "path": "mods/litematica-fabric-1.21.11-0.26.1.jar",
+      "url": "https://edge.forgecdn.net/files/7763/660/litematica-fabric-1.21.11-0.26.1.jar",
+      "sha1": "b1e6a226b0ecf710917abdd5157823a0efaa9c4b",
+      "size": 1815170
+    },
+    {
+      "path": "mods/malilib-fabric-1.21.11-0.27.6.jar",
+      "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/APEEwSfs/malilib-fabric-1.21.11-0.27.8.jar",
+      "sha1": "530f47a9f2e4a3a37ad0f6cc1f730b363a3408c3",
+      "size": 1919538
+    },
+    {
+      "path": "mods/malilib-fabric-1.21.11-0.27.7.jar",
+      "url": "https://edge.forgecdn.net/files/7763/655/malilib-fabric-1.21.11-0.27.7.jar",
+      "sha1": "81d84f56ba463e91b257c646b719f85326a7a1bb",
+      "size": 1915390
+    },
+    {
+      "path": "mods/ok_zoomer-fabric-16.0.0-beta.2.jar",
+      "url": "https://edge.forgecdn.net/files/7512/491/ok_zoomer-fabric-16.0.0-beta.2.jar",
+      "sha1": "4bda79366033f319209e5c96c6f9ed3a4d0fa69d",
+      "size": 214615
+    },
+    {
+      "path": "mods/RoughlyEnoughItems-21.11.816-fabric.jar",
+      "url": "https://edge.forgecdn.net/files/8249/100/RoughlyEnoughItems-21.11.816-fabric.jar",
+      "sha1": "86aebb79a49a57f3a872783ebc8bb624fb26f933",
+      "size": 2480689
+    },
+    {
+      "path": "mods/sodium-fabric-0.8.12+mc1.21.11.jar",
+      "url": "https://edge.forgecdn.net/files/8111/43/sodium-fabric-0.8.12%2bmc1.21.11.jar",
+      "sha1": "4d80592bef36674e7469ae2737a7704b826289ae",
+      "size": 1905890
+    },
+    {
+      "path": "mods/voicechat-fabric-1.21.11-2.6.20.jar",
+      "url": "https://edge.forgecdn.net/files/8293/282/voicechat-fabric-1.21.11-2.6.20.jar",
+      "sha1": "c89ae178b319e83f1461368d2b93c917cd5ce578",
+      "size": 5583524
+    },
+    {
+      "path": "mods/worldedit-mod-7.4.2.jar",
+      "url": "https://edge.forgecdn.net/files/7855/515/worldedit-mod-7.4.2.jar",
+      "sha1": "2f5c35ab2d0dffa1be99ed6016132596949e59b3",
+      "size": 6970159
+    },
+    {
+      "path": "mods/WorldEditCUI-1.21.11+01.jar",
+      "url": "https://edge.forgecdn.net/files/7403/955/WorldEditCUI-1.21.11%2b01.jar",
+      "sha1": "140efe530f711478da7d5a70c88efb27b438470a",
+      "size": 706512
+    },
+    {
+      "path": "mods/xaerominimap-fabric-1.21.11-26.1.0.jar",
+      "url": "https://edge.forgecdn.net/files/8231/245/xaerominimap-fabric-1.21.11-26.1.0.jar",
+      "sha1": "59bb76e753fba6d2cb0a47ada26be6aafc753312",
+      "size": 2152140
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-1.21.11-1.41.0.jar",
+      "url": "https://edge.forgecdn.net/files/8231/144/xaeroworldmap-fabric-1.21.11-1.41.0.jar",
+      "sha1": "cb707302185d1c2bf7b4f4ef468867191aecf42e",
+      "size": 1436107
+    }
+  ]
+}
