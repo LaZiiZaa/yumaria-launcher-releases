@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-27T09:44:52.822Z",
+  "version": "2026-06-27T09:46:21.087Z",
   "minecraft": {
     "version": "1.21.11",
     "loader": "fabric",
@@ -86,12 +86,6 @@
       "url": "https://edge.forgecdn.net/files/7763/660/litematica-fabric-1.21.11-0.26.1.jar",
       "sha1": "b1e6a226b0ecf710917abdd5157823a0efaa9c4b",
       "size": 1815170
-    },
-    {
-      "path": "mods/malilib-fabric-1.21.11-0.27.6.jar",
-      "url": "https://cdn.modrinth.com/data/GcWjdA9I/versions/APEEwSfs/malilib-fabric-1.21.11-0.27.8.jar",
-      "sha1": "530f47a9f2e4a3a37ad0f6cc1f730b363a3408c3",
-      "size": 1919538
     },
     {
       "path": "mods/malilib-fabric-1.21.11-0.27.7.jar",
