@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-27T09:46:21.087Z",
+  "version": "2026-06-27T09:47:02.187Z",
   "minecraft": {
     "version": "1.21.11",
     "loader": "fabric",
@@ -74,12 +74,6 @@
       "url": "https://edge.forgecdn.net/files/7810/549/libIPN-fabric-1.21.11-6.6.3.jar",
       "sha1": "e4fd1f06b1e717be8545fc9769422fb964c33df4",
       "size": 635283
-    },
-    {
-      "path": "mods/litematica-fabric-1.21.11-0.26.0.jar",
-      "url": "https://cdn.modrinth.com/data/bEpr0Arc/versions/ZF7nARQU/litematica-fabric-1.21.11-0.26.3.jar",
-      "sha1": "321ab263a3638d32f07c07a036f80c5cb2f5d130",
-      "size": 1816760
     },
     {
       "path": "mods/litematica-fabric-1.21.11-0.26.1.jar",
