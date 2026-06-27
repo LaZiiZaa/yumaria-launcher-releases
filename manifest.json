@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-26T13:54:55.514Z",
+  "version": "2026-06-27T09:44:52.822Z",
   "minecraft": {
     "version": "1.21.11",
     "loader": "fabric",
@@ -124,28 +124,16 @@
       "size": 5583524
     },
     {
-      "path": "mods/worldedit-mod-7.4.2.jar",
-      "url": "https://edge.forgecdn.net/files/7855/515/worldedit-mod-7.4.2.jar",
-      "sha1": "2f5c35ab2d0dffa1be99ed6016132596949e59b3",
-      "size": 6970159
+      "path": "mods/xaerominimap-fabric-1.21.11-26.1.4.jar",
+      "url": "https://edge.forgecdn.net/files/8298/786/xaerominimap-fabric-1.21.11-26.1.4.jar",
+      "sha1": "e6e88fa30efbf2c86b54becd7f96f84e01440a42",
+      "size": 2152173
     },
     {
-      "path": "mods/WorldEditCUI-1.21.11+01.jar",
-      "url": "https://edge.forgecdn.net/files/7403/955/WorldEditCUI-1.21.11%2b01.jar",
-      "sha1": "140efe530f711478da7d5a70c88efb27b438470a",
-      "size": 706512
-    },
-    {
-      "path": "mods/xaerominimap-fabric-1.21.11-26.1.0.jar",
-      "url": "https://edge.forgecdn.net/files/8231/245/xaerominimap-fabric-1.21.11-26.1.0.jar",
-      "sha1": "59bb76e753fba6d2cb0a47ada26be6aafc753312",
-      "size": 2152140
-    },
-    {
-      "path": "mods/xaeroworldmap-fabric-1.21.11-1.41.0.jar",
-      "url": "https://edge.forgecdn.net/files/8231/144/xaeroworldmap-fabric-1.21.11-1.41.0.jar",
-      "sha1": "cb707302185d1c2bf7b4f4ef468867191aecf42e",
-      "size": 1436107
+      "path": "mods/xaeroworldmap-fabric-1.21.11-1.41.2.jar",
+      "url": "https://edge.forgecdn.net/files/8298/722/xaeroworldmap-fabric-1.21.11-1.41.2.jar",
+      "sha1": "1a0ebc1f88b472f1a3181bfaa1319ddcd59af662",
+      "size": 1431996
     }
   ]
 }
